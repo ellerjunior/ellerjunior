@@ -4,9 +4,10 @@
 
 - 🌱 Atualmente estou estudando **Sistemas de Informação**
 - 📫 Entre em contato: [ellerjunior13@gmail.com](mailto:ellerjunior13@gmail.com)
-- 🚴 Futuro triatleta em treinamento para o Ironman 70.3
 - 💬 Idiomas: Inglês fluente, Espanhol básico
 - ⚡ Apaixonado por tecnologia, saúde e performance
+- 🚴 Futuro triatleta em treinamento para o Ironman 70.3
+
 
 ---
 
