@@ -8,6 +8,7 @@
 - ⚡ Apaixonado por tecnologia, saúde e performance
 - 🚴 Futuro triatleta em treinamento para o Ironman 70.3
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=EllerJunior&label=Profile%20views&color=0e75b6&style=flat" alt="EllerJunior" /> </p>
 
 ---
 
