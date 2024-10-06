@@ -1,14 +1,13 @@
 # Olá 👋, Eu sou o Eller Junior
 
 ### Estudante de Sistemas de Informação e Futuro Triatleta
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=EllerJunior&label=Profile%20views&color=0e75b6&style=flat" alt="EllerJunior" /> </p>
 
 - 🌱 Atualmente estou estudando **Sistemas de Informação**
 - 📫 Entre em contato: [ellerjunior13@gmail.com](mailto:ellerjunior13@gmail.com)
 - 💬 Idiomas: Inglês fluente, Espanhol básico
 - ⚡ Apaixonado por tecnologia, saúde e performance
 - 🚴 Futuro triatleta em treinamento para o Ironman 70.3
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=EllerJunior&label=Profile%20views&color=0e75b6&style=flat" alt="EllerJunior" /> </p>
 
 ---
 
