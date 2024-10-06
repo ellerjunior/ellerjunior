@@ -1,16 +1,33 @@
-## Hi there 👋
+# Olá 👋, Eu sou o Eller Junior
 
-<!--
-**ellerjunior/ellerjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estudante de Sistemas de Informação e Futuro Triatleta
 
-Here are some ideas to get you started:
+- 🌱 Atualmente estou estudando **Sistemas de Informação**
+- 📫 Entre em contato: [ellerjunior13@gmail.com](mailto:ellerjunior13@gmail.com)
+- 🚴 Futuro triatleta em treinamento para o Ironman 70.3
+- 💬 Idiomas: Inglês fluente, Espanhol básico
+- ⚡ Apaixonado por tecnologia, saúde e performance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Conecte-se comigo:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/eller-barboza-6b8259252)
+
+---
+
+### Linguagens e Ferramentas:
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### Estatísticas GitHub:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EllerJunior&show_icons=true&theme=radical)
+
+---
+
+### Streak de Contribuições:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EllerJunior&theme=radical)
+
