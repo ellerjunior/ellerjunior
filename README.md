@@ -37,5 +37,5 @@
 </p>
 
 <p align="center">
-  <img width="495" src="https://streak-stats.demolab.com?user=EllerJunior&amp;theme=radical&amp;locale=pt_BR&amp;starting_year=2026&amp;timezone=America%2FChicago&amp;hide_border=true&amp;border_radius=12&amp;v=4" alt="Sequência de contribuições em 2026" />
+  <img width="495" src="https://streak-stats.demolab.com?user=EllerJunior&amp;theme=radical&amp;locale=pt_BR&amp;starting_year=2026&amp;timezone=America%2FChicago&amp;hide_border=true&amp;border_radius=12" alt="Sequência de contribuições em 2026" />
 </p>
