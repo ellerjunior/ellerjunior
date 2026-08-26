@@ -31,14 +31,14 @@
 
 ## 📊 Estatísticas GitHub — 2026
 
-<p align="center">
+<p align="left">
   <img width="495" src="https://github-stats-extended.vercel.app/api?username=EllerJunior&amp;show_icons=true&amp;theme=radical&amp;locale=pt-br&amp;commits_year=2026&amp;include_all_commits=true&amp;hide_border=true&amp;border_radius=12" alt="Estatísticas do GitHub em 2026" />
 </p>
 
-<p align="center">
+<p align="left">
   <img width="495" src="https://github-stats-extended.vercel.app/api/top-langs/?username=EllerJunior&amp;layout=compact&amp;theme=radical&amp;locale=pt-br&amp;hide_border=true&amp;border_radius=12" alt="Linguagens mais utilizadas" />
 </p>
 
-<p align="center">
+<p align="left">
   <img width="495" src="https://streak-stats.demolab.com?user=EllerJunior&amp;theme=radical&amp;locale=pt_BR&amp;starting_year=2026&amp;timezone=America%2FChicago&amp;hide_border=true&amp;border_radius=12" alt="Sequência de contribuições em 2026" />
 </p>
