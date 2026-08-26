@@ -34,6 +34,6 @@
 
 <br>
 
-![Sequência de contribuições em 2026](https://streak-stats.demolab.com?user=EllerJunior&theme=radical&locale=pt_BR&starting_year=2026&timezone=America%2FChicago&hide_border=true&border_radius=12&v=2)user=EllerJunior&theme=radical&locale=pt_BR&starting_year=2026&timezone=America%2FChicago&hide_border=true&border_radius=12" alt="Sequência de contribuições em 2026" />
+![Sequência de contribuições em 2026](https://streak-stats.demolab.com?user=EllerJunior&theme=radical&locale=pt_BR&starting_year=2026&timezone=America%2FChicago&hide_border=true&border_radius=12&v=3)
 
 </div>
