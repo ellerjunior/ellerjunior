@@ -1,5 +1,8 @@
 # Olá 👋, Eu sou o Eller Junior
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=EllerJunior&label=Profile%20views&color=0e75b6&style=flat" alt="EllerJunior" /> </p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=EllerJunior&label=Profile%20views&color=0e75b6&style=flat" alt="Visualizações do perfil" />
+</p>
 
 ### Estudante de Sistemas de Informação
 
@@ -12,11 +15,13 @@
 ---
 
 ### Conecte-se comigo:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/eller-barboza-6b8259252)
 
 ---
 
 ### Linguagens e Ferramentas:
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -26,14 +31,11 @@
 
 ## 📊 Estatísticas GitHub — 2026
 
-<div align="center">
+<p align="center">
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=EllerJunior&amp;show_icons=true&amp;theme=radical&amp;locale=pt-br&amp;commits_year=2026&amp;include_all_commits=true&amp;hide_border=true&amp;border_radius=12" alt="Estatísticas do GitHub em 2026" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=EllerJunior&amp;layout=compact&amp;theme=radical&amp;locale=pt-br&amp;hide_border=true&amp;border_radius=12" alt="Linguagens mais utilizadas" />
+</p>
 
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=EllerJunior&show_icons=true&theme=radical&locale=pt-br&commits_year=2026&include_all_commits=true&hide_border=true&border_radius=12" alt="Estatísticas do GitHub em 2026" />
-
-<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=EllerJunior&layout=compact&theme=radical&locale=pt-br&hide_border=true&border_radius=12" alt="Linguagens mais utilizadas" />
-
-<br>
-
-![Sequência de contribuições em 2026](https://streak-stats.demolab.com?user=EllerJunior&theme=radical&locale=pt_BR&starting_year=2026&timezone=America%2FChicago&hide_border=true&border_radius=12&v=3)
-
-</div>
+<p align="center">
+  <img width="495" src="https://streak-stats.demolab.com?user=EllerJunior&amp;theme=radical&amp;locale=pt_BR&amp;starting_year=2026&amp;timezone=America%2FChicago&amp;hide_border=true&amp;border_radius=12&amp;v=4" alt="Sequência de contribuições em 2026" />
+</p>
