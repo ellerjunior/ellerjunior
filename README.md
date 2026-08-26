@@ -24,11 +24,16 @@
 
 ---
 
-### Estatísticas GitHub:
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=EllerJunior&show_icons=true&theme=radical)
+## 📊 Estatísticas GitHub — 2026
 
----
+<div align="center">
 
-### Streak de Contribuições:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EllerJunior&theme=radical)
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=EllerJunior&show_icons=true&theme=radical&locale=pt-br&commits_year=2026&include_all_commits=true&hide_border=true&border_radius=12" alt="Estatísticas do GitHub em 2026" />
 
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=EllerJunior&layout=compact&theme=radical&locale=pt-br&hide_border=true&border_radius=12" alt="Linguagens mais utilizadas" />
+
+<br>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=EllerJunior&theme=radical&locale=pt_BR&starting_year=2026&timezone=America%2FChicago&hide_border=true&border_radius=12" alt="Sequência de contribuições em 2026" />
+
+</div>
