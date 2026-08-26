@@ -30,5 +30,5 @@
 ---
 
 ### Streak de Contribuições:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EllerJunior&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=EllerJunior&theme=radical)
 
