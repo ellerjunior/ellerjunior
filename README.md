@@ -32,8 +32,11 @@
 ## 📊 Estatísticas GitHub — 2026
 
 <p align="center">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=EllerJunior&amp;show_icons=true&amp;theme=radical&amp;locale=pt-br&amp;commits_year=2026&amp;include_all_commits=true&amp;hide_border=true&amp;border_radius=12" alt="Estatísticas do GitHub em 2026" />
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=EllerJunior&amp;layout=compact&amp;theme=radical&amp;locale=pt-br&amp;hide_border=true&amp;border_radius=12" alt="Linguagens mais utilizadas" />
+  <img width="495" src="https://github-stats-extended.vercel.app/api?username=EllerJunior&amp;show_icons=true&amp;theme=radical&amp;locale=pt-br&amp;commits_year=2026&amp;include_all_commits=true&amp;hide_border=true&amp;border_radius=12" alt="Estatísticas do GitHub em 2026" />
+</p>
+
+<p align="center">
+  <img width="495" src="https://github-stats-extended.vercel.app/api/top-langs/?username=EllerJunior&amp;layout=compact&amp;theme=radical&amp;locale=pt-br&amp;hide_border=true&amp;border_radius=12" alt="Linguagens mais utilizadas" />
 </p>
 
 <p align="center">
