@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estou estudando **Sistemas de Informação**
 - 📫 Entre em contato: [ellerjunior13@gmail.com](mailto:ellerjunior13@gmail.com)
-- 💬 Idiomas: Inglês fluente, Espanhol básico
+- 💬 Idiomas: Português nativo, Inglês fluente e Espanhol básico
 - ⚡ Apaixonado por tecnologia, saúde e performance
 - 🚴 Futuro triatleta em treinamento para o Ironman 70.3
 
